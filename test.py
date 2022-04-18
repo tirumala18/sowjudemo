@@ -1,5 +1,5 @@
 
-import json
+import foori
 #call_counter = 0
 
 def replace_string(value: str, template_vars):
